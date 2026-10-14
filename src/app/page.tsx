@@ -42,7 +42,7 @@ export default function Home() {
           <a href="#projects">View Projects</a>
 
           <a
-            href="/resume/Saira_Khan_Resume.pdf"
+            href="/resume/Sk_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
