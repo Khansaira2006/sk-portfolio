@@ -402,7 +402,7 @@ export default function Home() {
 
         <a
           className="resume-button"
-          href="/resume/Saira_Khan_Resume.pdf"
+          href="/resume/Sk_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
